@@ -22,7 +22,7 @@ namespace IBooks.API.Controllers
         [HttpGet("GetBooks")]
         public async Task<IActionResult> GetBooks()
         {
-            /
+            
             var bookEntities = await this.repository.GetBooksAsync();
 
             return Ok(bookEntities);
