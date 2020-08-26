@@ -4,12 +4,21 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core
 
 trigger:
+<<<<<<< HEAD
   branches: 
     include:
       - SIT
     exclude:
       - master
       - UAT
+=======
+  branches:
+    include:
+      - UAT
+    exclude:
+      - master
+      - SIT
+>>>>>>> 35cb4f318ceca2d69a893ceaa65ceed48f5312b5
 
 pool:
   vmImage: 'ubuntu-latest'
