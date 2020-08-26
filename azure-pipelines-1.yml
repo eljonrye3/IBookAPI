@@ -9,6 +9,7 @@ trigger:
       - SIT
     exclude:
       - master
+      - UAT
 
 pool:
   vmImage: 'ubuntu-latest'
