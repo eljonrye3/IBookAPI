@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XExvq/P1/ZIPX3zs6b9nyQlB4OKEiRr422qalyjVv4O2k6ijDQ64eT5eX4W25SgehOM0q5W3UgiEclCsGuQDzw==",
+  "dgSpecHash": "m1TAa06xhfq/3+UAoTVztDoRUvVriB4PKfqqYbtiV0YTClk1gE+zOu8AXRa2NryqhWBcBcfn3lA8Pv4uVzz+cA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eljon.ryan.s.fajardo\\Documents\\Visual Studio 2019\\Projects\\IBooks\\IBooks.API\\IBooks.API.csproj",
+  "projectFilePath": "C:\\Users\\eljon.ryan.s.fajardo\\Documents\\Visual Studio 2019\\Projects\\Azure POC\\Book API\\IBookAPI\\IBooks.API\\IBooks.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eljon.ryan.s.fajardo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\eljon.ryan.s.fajardo\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

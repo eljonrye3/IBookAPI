@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eljon.ryan.s.fajardo\\Documents\\Visual Studio 2019\\Projects\\IBooks\\IBooks.API\\IBooks.API.csproj": {}
+    "C:\\Users\\eljon.ryan.s.fajardo\\Documents\\Visual Studio 2019\\Projects\\Azure POC\\Book API\\IBookAPI\\IBooks.API\\IBooks.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eljon.ryan.s.fajardo\\Documents\\Visual Studio 2019\\Projects\\IBooks\\IBooks.API\\IBooks.API.csproj": {
+    "C:\\Users\\eljon.ryan.s.fajardo\\Documents\\Visual Studio 2019\\Projects\\Azure POC\\Book API\\IBookAPI\\IBooks.API\\IBooks.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eljon.ryan.s.fajardo\\Documents\\Visual Studio 2019\\Projects\\IBooks\\IBooks.API\\IBooks.API.csproj",
+        "projectUniqueName": "C:\\Users\\eljon.ryan.s.fajardo\\Documents\\Visual Studio 2019\\Projects\\Azure POC\\Book API\\IBookAPI\\IBooks.API\\IBooks.API.csproj",
         "projectName": "IBooks.API",
-        "projectPath": "C:\\Users\\eljon.ryan.s.fajardo\\Documents\\Visual Studio 2019\\Projects\\IBooks\\IBooks.API\\IBooks.API.csproj",
+        "projectPath": "C:\\Users\\eljon.ryan.s.fajardo\\Documents\\Visual Studio 2019\\Projects\\Azure POC\\Book API\\IBookAPI\\IBooks.API\\IBooks.API.csproj",
         "packagesPath": "C:\\Users\\eljon.ryan.s.fajardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eljon.ryan.s.fajardo\\Documents\\Visual Studio 2019\\Projects\\IBooks\\IBooks.API\\obj\\",
+        "outputPath": "C:\\Users\\eljon.ryan.s.fajardo\\Documents\\Visual Studio 2019\\Projects\\Azure POC\\Book API\\IBookAPI\\IBooks.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eljon.ryan.s.fajardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
